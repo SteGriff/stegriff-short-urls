@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-	"shorten": "netlify-shortener"
+	"shorten": "netlify-shortener",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "baseUrl": "https://url.stegriff.co.uk",
